@@ -26,10 +26,10 @@ void loop()
   waterLevel = height-distance;
   Serial.print("distance:"); 
   Serial.print(distance);
-  Serial.println(" cm")
+  Serial.println(" cm");
   Serial.print("water level:"); 
   Serial.print(waterLevel);
-  Serial.println(" cm")
+  Serial.println(" cm");
   Serial.print("\n");
     
   delay(1000);
