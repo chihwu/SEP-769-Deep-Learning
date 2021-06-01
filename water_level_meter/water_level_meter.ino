@@ -22,7 +22,7 @@ void loop()
    
   duration = pulseIn(echopin,HIGH);
    
-  distance = ( duration / 2) / 29.1;
+  distance = ( duration / 2) / 29;
   waterLevel = height-distance;
   Serial.print("distance:"); 
   Serial.print(distance);
