@@ -1,1 +1,1 @@
-# SEP-769
+This is SEP-769 readme file.
