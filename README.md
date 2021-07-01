@@ -1,1 +1,0 @@
-This is SEP-769 readme file.
